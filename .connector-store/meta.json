@@ -1,0 +1,1 @@
+{"name":"File Publisher", "owner":"WSO2", "category":"Analytics Publisher", "documentationUrl":"https://docs.wso2.com/display/ANALYTICSEXTENSIONS/File+Output+Event+Publisher", "description":"The File event publisher writes the output events in XML, text, and JSON formats in the file.", "status":"Active"}
